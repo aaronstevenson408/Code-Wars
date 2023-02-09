@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\bin\Debug\net6.0\Counting sheep.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\bin\Debug\net6.0\Counting sheep.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\bin\Debug\net6.0\Counting sheep.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\bin\Debug\net6.0\Counting sheep.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\bin\Debug\net6.0\Counting sheep.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\obj\Debug\net6.0\Counting sheep.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\obj\Debug\net6.0\Counting sheep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\obj\Debug\net6.0\Counting sheep.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\obj\Debug\net6.0\Counting sheep.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\obj\Debug\net6.0\Counting sheep.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\obj\Debug\net6.0\Counting sheep.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\obj\Debug\net6.0\refint\Counting sheep.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\obj\Debug\net6.0\Counting sheep.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\obj\Debug\net6.0\Counting sheep.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Counting sheep\obj\Debug\net6.0\ref\Counting sheep.dll
