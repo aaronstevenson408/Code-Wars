@@ -9,7 +9,6 @@ public class Kata
         Dictionary<string, string> results = new Dictionary<string,string>();
 
         results.Add("sanity", "hello");
-        return;
-        results;
+        return results; // there was a semicolon after return that caused the dictionary not to be passed
     }
 }
