@@ -35,9 +35,7 @@ namespace Solution
     {
         public static int NearestSq(int n)
         {
-            double number = Math.Pow(Math.Round(Math.Sqrt(n)), 2);
-            Console.WriteLine(number);
-            return Convert.ToInt32(number);
+            return Convert.ToInt32(Math.Pow(Math.Round(Math.Sqrt(n)), 2));
 
             throw new NotImplementedException("NearestSq is not implemented.");
         }
