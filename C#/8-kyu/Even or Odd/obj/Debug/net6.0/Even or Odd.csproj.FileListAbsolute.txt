@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\obj\Debug\net6.0\Even or Odd.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\obj\Debug\net6.0\Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\obj\Debug\net6.0\Even or Odd.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\obj\Debug\net6.0\Even or Odd.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\obj\Debug\net6.0\Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\bin\Debug\net6.0\Even or Odd.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\bin\Debug\net6.0\Even or Odd.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\bin\Debug\net6.0\Even or Odd.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\bin\Debug\net6.0\Even or Odd.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\bin\Debug\net6.0\Even or Odd.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\obj\Debug\net6.0\Even or Odd.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\obj\Debug\net6.0\refint\Even or Odd.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\obj\Debug\net6.0\Even or Odd.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\obj\Debug\net6.0\Even or Odd.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Even or Odd\obj\Debug\net6.0\ref\Even or Odd.dll
