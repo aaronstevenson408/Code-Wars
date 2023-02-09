@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\C#",
-    "\\C#\\8-kyu",
-    "\\C#\\8-kyu\\ANeedleInTheHaystack"
+    "\\C#\\8-kyu\\Lost Source Copies",
+    "\\Python",
+    "\\Python\\8-kyu",
+    "\\Python\\Retired\\Lost Source Copies"
   ],
-  "SelectedNode": "\\C#\\8-kyu\\ANeedleInTheHaystack\\ANeedleInTheHaystack.csproj",
+  "SelectedNode": "\\C#\\8-kyu",
   "PreviewInSolutionExplorer": false
 }

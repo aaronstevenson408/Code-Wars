@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\obj\Debug\net6.0\Geometry Basics  Distance between points in 2D.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\obj\Debug\net6.0\Geometry Basics  Distance between points in 2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\obj\Debug\net6.0\Geometry Basics  Distance between points in 2D.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\obj\Debug\net6.0\Geometry Basics  Distance between points in 2D.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\obj\Debug\net6.0\Geometry Basics  Distance between points in 2D.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\bin\Debug\net6.0\Geometry Basics  Distance between points in 2D.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\bin\Debug\net6.0\Geometry Basics  Distance between points in 2D.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\bin\Debug\net6.0\Geometry Basics  Distance between points in 2D.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\bin\Debug\net6.0\Geometry Basics  Distance between points in 2D.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\bin\Debug\net6.0\Geometry Basics  Distance between points in 2D.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\obj\Debug\net6.0\Geometry Basics  Distance between points in 2D.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\obj\Debug\net6.0\refint\Geometry Basics  Distance between points in 2D.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\obj\Debug\net6.0\Geometry Basics  Distance between points in 2D.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\obj\Debug\net6.0\Geometry Basics  Distance between points in 2D.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Geometry Basics  Distance between points in 2D\obj\Debug\net6.0\ref\Geometry Basics  Distance between points in 2D.dll
