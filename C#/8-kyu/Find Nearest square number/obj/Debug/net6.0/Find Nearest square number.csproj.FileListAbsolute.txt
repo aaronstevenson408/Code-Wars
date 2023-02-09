@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\bin\Debug\net6.0\Find Nearest square number.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\bin\Debug\net6.0\Find Nearest square number.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\bin\Debug\net6.0\Find Nearest square number.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\bin\Debug\net6.0\Find Nearest square number.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\bin\Debug\net6.0\Find Nearest square number.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\obj\Debug\net6.0\Find Nearest square number.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\obj\Debug\net6.0\Find Nearest square number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\obj\Debug\net6.0\Find Nearest square number.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\obj\Debug\net6.0\Find Nearest square number.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\obj\Debug\net6.0\Find Nearest square number.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\obj\Debug\net6.0\Find Nearest square number.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\obj\Debug\net6.0\refint\Find Nearest square number.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\obj\Debug\net6.0\Find Nearest square number.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\obj\Debug\net6.0\Find Nearest square number.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Find Nearest square number\obj\Debug\net6.0\ref\Find Nearest square number.dll
