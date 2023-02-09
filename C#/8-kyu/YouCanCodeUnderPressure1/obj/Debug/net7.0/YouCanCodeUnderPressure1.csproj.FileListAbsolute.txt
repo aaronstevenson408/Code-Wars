@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\bin\Debug\net7.0\YouCanCodeUnderPressure1.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\bin\Debug\net7.0\YouCanCodeUnderPressure1.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\bin\Debug\net7.0\YouCanCodeUnderPressure1.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\bin\Debug\net7.0\YouCanCodeUnderPressure1.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\bin\Debug\net7.0\YouCanCodeUnderPressure1.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\obj\Debug\net7.0\YouCanCodeUnderPressure1.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\obj\Debug\net7.0\YouCanCodeUnderPressure1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\obj\Debug\net7.0\YouCanCodeUnderPressure1.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\obj\Debug\net7.0\YouCanCodeUnderPressure1.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\obj\Debug\net7.0\YouCanCodeUnderPressure1.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\obj\Debug\net7.0\YouCanCodeUnderPressure1.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\obj\Debug\net7.0\refint\YouCanCodeUnderPressure1.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\obj\Debug\net7.0\YouCanCodeUnderPressure1.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\obj\Debug\net7.0\YouCanCodeUnderPressure1.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\YouCanCodeUnderPressure1\obj\Debug\net7.0\ref\YouCanCodeUnderPressure1.dll

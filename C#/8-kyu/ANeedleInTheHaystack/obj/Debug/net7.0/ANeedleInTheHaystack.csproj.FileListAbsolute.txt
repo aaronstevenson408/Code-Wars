@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\bin\Debug\net7.0\ANeedleInTheHaystack.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\bin\Debug\net7.0\ANeedleInTheHaystack.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\bin\Debug\net7.0\ANeedleInTheHaystack.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\bin\Debug\net7.0\ANeedleInTheHaystack.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\bin\Debug\net7.0\ANeedleInTheHaystack.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\obj\Debug\net7.0\ANeedleInTheHaystack.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\obj\Debug\net7.0\ANeedleInTheHaystack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\obj\Debug\net7.0\ANeedleInTheHaystack.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\obj\Debug\net7.0\ANeedleInTheHaystack.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\obj\Debug\net7.0\ANeedleInTheHaystack.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\obj\Debug\net7.0\ANeedleInTheHaystack.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\obj\Debug\net7.0\refint\ANeedleInTheHaystack.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\obj\Debug\net7.0\ANeedleInTheHaystack.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\obj\Debug\net7.0\ANeedleInTheHaystack.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ANeedleInTheHaystack\obj\Debug\net7.0\ref\ANeedleInTheHaystack.dll

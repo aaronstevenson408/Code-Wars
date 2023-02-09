@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\bin\Debug\net7.0\IsHeGonnaSurvive.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\bin\Debug\net7.0\IsHeGonnaSurvive.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\bin\Debug\net7.0\IsHeGonnaSurvive.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\bin\Debug\net7.0\IsHeGonnaSurvive.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\bin\Debug\net7.0\IsHeGonnaSurvive.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\obj\Debug\net7.0\IsHeGonnaSurvive.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\obj\Debug\net7.0\IsHeGonnaSurvive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\obj\Debug\net7.0\IsHeGonnaSurvive.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\obj\Debug\net7.0\IsHeGonnaSurvive.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\obj\Debug\net7.0\IsHeGonnaSurvive.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\obj\Debug\net7.0\IsHeGonnaSurvive.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\obj\Debug\net7.0\refint\IsHeGonnaSurvive.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\obj\Debug\net7.0\IsHeGonnaSurvive.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\obj\Debug\net7.0\IsHeGonnaSurvive.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\IsHeGonnaSurvive\obj\Debug\net7.0\ref\IsHeGonnaSurvive.dll

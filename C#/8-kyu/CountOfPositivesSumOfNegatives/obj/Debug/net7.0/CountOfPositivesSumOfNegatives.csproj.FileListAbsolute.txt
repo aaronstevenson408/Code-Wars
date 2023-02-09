@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\bin\Debug\net7.0\CountOfPositivesSumOfNegatives.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\bin\Debug\net7.0\CountOfPositivesSumOfNegatives.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\bin\Debug\net7.0\CountOfPositivesSumOfNegatives.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\bin\Debug\net7.0\CountOfPositivesSumOfNegatives.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\bin\Debug\net7.0\CountOfPositivesSumOfNegatives.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\obj\Debug\net7.0\CountOfPositivesSumOfNegatives.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\obj\Debug\net7.0\CountOfPositivesSumOfNegatives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\obj\Debug\net7.0\CountOfPositivesSumOfNegatives.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\obj\Debug\net7.0\CountOfPositivesSumOfNegatives.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\obj\Debug\net7.0\CountOfPositivesSumOfNegatives.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\obj\Debug\net7.0\CountOfPositivesSumOfNegatives.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\obj\Debug\net7.0\refint\CountOfPositivesSumOfNegatives.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\obj\Debug\net7.0\CountOfPositivesSumOfNegatives.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\obj\Debug\net7.0\CountOfPositivesSumOfNegatives.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CountOfPositivesSumOfNegatives\obj\Debug\net7.0\ref\CountOfPositivesSumOfNegatives.dll

@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\bin\Debug\net7.0\BeginnerReduceButGrow.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\bin\Debug\net7.0\BeginnerReduceButGrow.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\bin\Debug\net7.0\BeginnerReduceButGrow.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\bin\Debug\net7.0\BeginnerReduceButGrow.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\bin\Debug\net7.0\BeginnerReduceButGrow.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\obj\Debug\net7.0\BeginnerReduceButGrow.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\obj\Debug\net7.0\BeginnerReduceButGrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\obj\Debug\net7.0\BeginnerReduceButGrow.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\obj\Debug\net7.0\BeginnerReduceButGrow.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\obj\Debug\net7.0\BeginnerReduceButGrow.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\obj\Debug\net7.0\BeginnerReduceButGrow.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\obj\Debug\net7.0\refint\BeginnerReduceButGrow.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\obj\Debug\net7.0\BeginnerReduceButGrow.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\obj\Debug\net7.0\BeginnerReduceButGrow.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\BeginnerReduceButGrow\obj\Debug\net7.0\ref\BeginnerReduceButGrow.dll

@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\bin\Debug\net7.0\TotalAmountOfPoints.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\bin\Debug\net7.0\TotalAmountOfPoints.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\bin\Debug\net7.0\TotalAmountOfPoints.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\bin\Debug\net7.0\TotalAmountOfPoints.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\bin\Debug\net7.0\TotalAmountOfPoints.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\obj\Debug\net7.0\TotalAmountOfPoints.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\obj\Debug\net7.0\TotalAmountOfPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\obj\Debug\net7.0\TotalAmountOfPoints.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\obj\Debug\net7.0\TotalAmountOfPoints.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\obj\Debug\net7.0\TotalAmountOfPoints.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\obj\Debug\net7.0\TotalAmountOfPoints.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\obj\Debug\net7.0\refint\TotalAmountOfPoints.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\obj\Debug\net7.0\TotalAmountOfPoints.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\obj\Debug\net7.0\TotalAmountOfPoints.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\TotalAmountOfPoints\obj\Debug\net7.0\ref\TotalAmountOfPoints.dll

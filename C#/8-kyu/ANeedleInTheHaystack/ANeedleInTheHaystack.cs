@@ -14,17 +14,18 @@ Example(Input --> Output)
 Note: In COBOL, it should return "found the needle at position 6"
 */
 
+using System;
 public class Kata
 {
     static void Main(string[] args)
-    {
-        string[] haystack = new string[] { "hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk" };
-        Console.WriteLine(Kata.FindNeedle(haystack));
-    }
-    public static string FindNeedle(object[] haystack)
-    {
+  {
+      string[] haystack = new string[] { "hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk" };
+      Console.WriteLine(Kata.FindNeedle(haystack));
+  }
+  public static string FindNeedle(object[] haystack)
+  {
         string searchString = "needle";
-
+        
         return "found the needle at position " + Array.IndexOf(haystack, searchString);
-    }
+  }
 }

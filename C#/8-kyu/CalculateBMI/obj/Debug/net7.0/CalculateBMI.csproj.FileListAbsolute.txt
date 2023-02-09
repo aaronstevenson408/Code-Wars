@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\bin\Debug\net7.0\CalculateBMI.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\bin\Debug\net7.0\CalculateBMI.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\bin\Debug\net7.0\CalculateBMI.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\bin\Debug\net7.0\CalculateBMI.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\bin\Debug\net7.0\CalculateBMI.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\obj\Debug\net7.0\CalculateBMI.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\obj\Debug\net7.0\CalculateBMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\obj\Debug\net7.0\CalculateBMI.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\obj\Debug\net7.0\CalculateBMI.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\obj\Debug\net7.0\CalculateBMI.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\obj\Debug\net7.0\CalculateBMI.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\obj\Debug\net7.0\refint\CalculateBMI.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\obj\Debug\net7.0\CalculateBMI.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\obj\Debug\net7.0\CalculateBMI.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\CalculateBMI\obj\Debug\net7.0\ref\CalculateBMI.dll

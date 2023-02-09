@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\bin\Debug\net7.0\ConvertNumberToString.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\bin\Debug\net7.0\ConvertNumberToString.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\bin\Debug\net7.0\ConvertNumberToString.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\bin\Debug\net7.0\ConvertNumberToString.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\bin\Debug\net7.0\ConvertNumberToString.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\obj\Debug\net7.0\ConvertNumberToString.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\obj\Debug\net7.0\ConvertNumberToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\obj\Debug\net7.0\ConvertNumberToString.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\obj\Debug\net7.0\ConvertNumberToString.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\obj\Debug\net7.0\ConvertNumberToString.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\obj\Debug\net7.0\ConvertNumberToString.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\obj\Debug\net7.0\refint\ConvertNumberToString.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\obj\Debug\net7.0\ConvertNumberToString.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\obj\Debug\net7.0\ConvertNumberToString.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\ConvertNumberToString\obj\Debug\net7.0\ref\ConvertNumberToString.dll

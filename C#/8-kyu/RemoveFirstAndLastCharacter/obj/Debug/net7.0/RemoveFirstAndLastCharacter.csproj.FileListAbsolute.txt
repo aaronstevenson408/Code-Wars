@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\bin\Debug\net7.0\RemoveFirstAndLastCharacter.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\bin\Debug\net7.0\RemoveFirstAndLastCharacter.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\bin\Debug\net7.0\RemoveFirstAndLastCharacter.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\bin\Debug\net7.0\RemoveFirstAndLastCharacter.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\bin\Debug\net7.0\RemoveFirstAndLastCharacter.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\obj\Debug\net7.0\RemoveFirstAndLastCharacter.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\obj\Debug\net7.0\RemoveFirstAndLastCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\obj\Debug\net7.0\RemoveFirstAndLastCharacter.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\obj\Debug\net7.0\RemoveFirstAndLastCharacter.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\obj\Debug\net7.0\RemoveFirstAndLastCharacter.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\obj\Debug\net7.0\RemoveFirstAndLastCharacter.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\obj\Debug\net7.0\refint\RemoveFirstAndLastCharacter.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\obj\Debug\net7.0\RemoveFirstAndLastCharacter.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\obj\Debug\net7.0\RemoveFirstAndLastCharacter.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\RemoveFirstAndLastCharacter\obj\Debug\net7.0\ref\RemoveFirstAndLastCharacter.dll

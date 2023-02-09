@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\bin\Debug\net7.0\OppositeNumber.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\bin\Debug\net7.0\OppositeNumber.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\bin\Debug\net7.0\OppositeNumber.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\bin\Debug\net7.0\OppositeNumber.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\bin\Debug\net7.0\OppositeNumber.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\obj\Debug\net7.0\OppositeNumber.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\obj\Debug\net7.0\OppositeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\obj\Debug\net7.0\OppositeNumber.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\obj\Debug\net7.0\OppositeNumber.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\obj\Debug\net7.0\OppositeNumber.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\obj\Debug\net7.0\OppositeNumber.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\obj\Debug\net7.0\refint\OppositeNumber.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\obj\Debug\net7.0\OppositeNumber.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\obj\Debug\net7.0\OppositeNumber.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\OppositeNumber\obj\Debug\net7.0\ref\OppositeNumber.dll

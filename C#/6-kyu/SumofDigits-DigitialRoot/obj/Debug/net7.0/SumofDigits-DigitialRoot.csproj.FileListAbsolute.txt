@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\bin\Debug\net7.0\SumofDigits-DigitialRoot.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\bin\Debug\net7.0\SumofDigits-DigitialRoot.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\bin\Debug\net7.0\SumofDigits-DigitialRoot.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\bin\Debug\net7.0\SumofDigits-DigitialRoot.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\bin\Debug\net7.0\SumofDigits-DigitialRoot.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\obj\Debug\net7.0\SumofDigits-DigitialRoot.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\obj\Debug\net7.0\SumofDigits-DigitialRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\obj\Debug\net7.0\SumofDigits-DigitialRoot.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\obj\Debug\net7.0\SumofDigits-DigitialRoot.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\obj\Debug\net7.0\SumofDigits-DigitialRoot.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\obj\Debug\net7.0\SumofDigits-DigitialRoot.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\obj\Debug\net7.0\refint\SumofDigits-DigitialRoot.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\obj\Debug\net7.0\SumofDigits-DigitialRoot.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\obj\Debug\net7.0\SumofDigits-DigitialRoot.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\SumofDigits-DigitialRoot\obj\Debug\net7.0\ref\SumofDigits-DigitialRoot.dll
