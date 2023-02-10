@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\bin\Debug\net6.0\Binary Addition.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\bin\Debug\net6.0\Binary Addition.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\bin\Debug\net6.0\Binary Addition.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\bin\Debug\net6.0\Binary Addition.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\bin\Debug\net6.0\Binary Addition.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\obj\Debug\net6.0\Binary Addition.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\obj\Debug\net6.0\Binary Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\obj\Debug\net6.0\Binary Addition.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\obj\Debug\net6.0\Binary Addition.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\obj\Debug\net6.0\Binary Addition.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\obj\Debug\net6.0\Binary Addition.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\obj\Debug\net6.0\refint\Binary Addition.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\obj\Debug\net6.0\Binary Addition.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\obj\Debug\net6.0\Binary Addition.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Binary Addition\obj\Debug\net6.0\ref\Binary Addition.dll
