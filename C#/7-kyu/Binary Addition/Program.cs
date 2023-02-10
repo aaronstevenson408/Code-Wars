@@ -6,12 +6,12 @@ namespace Solution
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testing the solution for 1 + 2");
-            string result = Kata.AddBinary(1, 2);
+            Console.WriteLine("Testing the solution for 800 + 45");
+            string result = Kata.AddBinary(800, 45);
             Console.WriteLine("Result: " + result);
-            Console.WriteLine("Expected result: 11");
+            Console.WriteLine("Expected result: 1101001101");
             Console.WriteLine("Comparing the result with expected result...");
-            Console.WriteLine(result == "11" ? "Test passed!" : "Test failed!");
+            Console.WriteLine(result == "1101001101" ? "Test passed!" : "Test failed!");
         }
     }
     public static class Kata
@@ -20,11 +20,11 @@ namespace Solution
         {
             int sum = a + b;
             string resultString = string.Empty;
-            while (sum >= 1)
+            while (sum > 0)
             {
                 int resultInt = sum % 2;
                 resultString = String.Concat(resultInt, resultString);
-                sum /= 2;
+                sum = sum / 2;
             }
 
             return resultString;
