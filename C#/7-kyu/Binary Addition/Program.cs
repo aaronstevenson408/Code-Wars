@@ -23,8 +23,8 @@ namespace Solution
             while (sum >= 1)
             {
                 int resultInt = sum % 2;
-                resultString = String.Concat(resultString,resultInt);
-                sum -= 2;
+                resultString = String.Concat(resultInt, resultString);
+                sum /= 2;
             }
 
             return resultString;

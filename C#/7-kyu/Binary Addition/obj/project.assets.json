@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\6-kyu\\Binary Addition\\Binary Addition.csproj",
+      "projectUniqueName": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\7-kyu\\Binary Addition\\Binary Addition.csproj",
       "projectName": "Binary Addition",
-      "projectPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\6-kyu\\Binary Addition\\Binary Addition.csproj",
+      "projectPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\7-kyu\\Binary Addition\\Binary Addition.csproj",
       "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\6-kyu\\Binary Addition\\obj\\",
+      "outputPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\7-kyu\\Binary Addition\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
