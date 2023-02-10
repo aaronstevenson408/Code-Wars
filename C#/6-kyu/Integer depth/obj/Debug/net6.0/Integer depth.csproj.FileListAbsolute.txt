@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\bin\Debug\net6.0\Integer depth.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\bin\Debug\net6.0\Integer depth.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\bin\Debug\net6.0\Integer depth.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\bin\Debug\net6.0\Integer depth.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\bin\Debug\net6.0\Integer depth.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\obj\Debug\net6.0\Integer depth.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\obj\Debug\net6.0\Integer depth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\obj\Debug\net6.0\Integer depth.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\obj\Debug\net6.0\Integer depth.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\obj\Debug\net6.0\Integer depth.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\obj\Debug\net6.0\Integer depth.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\obj\Debug\net6.0\refint\Integer depth.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\obj\Debug\net6.0\Integer depth.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\obj\Debug\net6.0\Integer depth.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\6-kyu\Integer depth\obj\Debug\net6.0\ref\Integer depth.dll
