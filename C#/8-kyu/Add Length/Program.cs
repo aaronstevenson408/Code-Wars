@@ -19,10 +19,11 @@ namespace Solution
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testing SampleTest: " + (new string[] { "apple 5", "ban 3" } == Kata.AddLength("apple ban")));
-            Console.WriteLine("Testing SampleTest: " + (new string[] { "you 3", "will 4", "win 3" } == Kata.AddLength("you will win")));
+            Console.WriteLine("Testing SampleTest: " + (new string[] { "apple 5", "ban 3" }.SequenceEqual(Kata.AddLength("apple ban"))));
+            Console.WriteLine("Testing SampleTest: " + (new string[] { "you 3", "will 4", "win 3" }.SequenceEqual(Kata.AddLength("you will win"))));
         }
     }
+
     public class Kata
     {
         public static string[] AddLength(string str)
@@ -30,12 +31,15 @@ namespace Solution
             List<string> words = new List<string>();
             List<string> wordsModified = new List<string>(); // there has to be a better way to do thi
             words = str.Split(" ").ToList();
-            string[] wordsArray = new string[words.length - 1];
+            string[] wordsArray = new string[words.Count - 1];
             foreach (string word in words)
             {
-                wordsArray.Append(word + " " + word.Length);
+                wordsModified.Add(word + " " + word.Length);
+                
             }
-           
+            wordsArray= wordsModified.ToArray();
+            return wordsArray;
+
         }
     }
 
