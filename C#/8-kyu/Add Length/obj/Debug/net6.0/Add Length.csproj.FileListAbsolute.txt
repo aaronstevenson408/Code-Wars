@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\obj\Debug\net6.0\Add Length.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\obj\Debug\net6.0\Add Length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\obj\Debug\net6.0\Add Length.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\obj\Debug\net6.0\Add Length.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\obj\Debug\net6.0\Add Length.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\bin\Debug\net6.0\Add Length.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\bin\Debug\net6.0\Add Length.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\bin\Debug\net6.0\Add Length.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\bin\Debug\net6.0\Add Length.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\bin\Debug\net6.0\Add Length.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\obj\Debug\net6.0\Add Length.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\obj\Debug\net6.0\refint\Add Length.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\obj\Debug\net6.0\Add Length.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\obj\Debug\net6.0\Add Length.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Add Length\obj\Debug\net6.0\ref\Add Length.dll

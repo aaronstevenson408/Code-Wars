@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\6-kyu\\Add Length\\Add Length.csproj": {}
+    "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\8-kyu\\Add Length\\Add Length.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\6-kyu\\Add Length\\Add Length.csproj": {
+    "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\8-kyu\\Add Length\\Add Length.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\6-kyu\\Add Length\\Add Length.csproj",
+        "projectUniqueName": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\8-kyu\\Add Length\\Add Length.csproj",
         "projectName": "Add Length",
-        "projectPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\6-kyu\\Add Length\\Add Length.csproj",
+        "projectPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\8-kyu\\Add Length\\Add Length.csproj",
         "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\6-kyu\\Add Length\\obj\\",
+        "outputPath": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Code-Wars\\C#\\8-kyu\\Add Length\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
