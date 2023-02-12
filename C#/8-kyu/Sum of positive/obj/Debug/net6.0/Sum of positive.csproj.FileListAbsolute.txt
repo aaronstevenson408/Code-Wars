@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\bin\Debug\net6.0\Sum of positive.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\bin\Debug\net6.0\Sum of positive.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\bin\Debug\net6.0\Sum of positive.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\bin\Debug\net6.0\Sum of positive.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\bin\Debug\net6.0\Sum of positive.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\obj\Debug\net6.0\Sum of positive.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\obj\Debug\net6.0\Sum of positive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\obj\Debug\net6.0\Sum of positive.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\obj\Debug\net6.0\Sum of positive.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\obj\Debug\net6.0\Sum of positive.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\obj\Debug\net6.0\Sum of positive.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\obj\Debug\net6.0\refint\Sum of positive.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\obj\Debug\net6.0\Sum of positive.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\obj\Debug\net6.0\Sum of positive.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Sum of positive\obj\Debug\net6.0\ref\Sum of positive.dll
