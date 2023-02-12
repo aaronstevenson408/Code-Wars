@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\bin\Debug\net6.0\Price of Mangoes.exe
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\bin\Debug\net6.0\Price of Mangoes.deps.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\bin\Debug\net6.0\Price of Mangoes.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\bin\Debug\net6.0\Price of Mangoes.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\bin\Debug\net6.0\Price of Mangoes.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\obj\Debug\net6.0\Price of Mangoes.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\obj\Debug\net6.0\Price of Mangoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\obj\Debug\net6.0\Price of Mangoes.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\obj\Debug\net6.0\Price of Mangoes.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\obj\Debug\net6.0\Price of Mangoes.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\obj\Debug\net6.0\Price of Mangoes.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\obj\Debug\net6.0\refint\Price of Mangoes.dll
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\obj\Debug\net6.0\Price of Mangoes.pdb
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\obj\Debug\net6.0\Price of Mangoes.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\GitHub\Code-Wars\C#\8-kyu\Price of Mangoes\obj\Debug\net6.0\ref\Price of Mangoes.dll
