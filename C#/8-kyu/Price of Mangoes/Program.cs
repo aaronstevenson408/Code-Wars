@@ -15,9 +15,9 @@ namespace Solution
         public static int Mango(int quantity, int price)
             // needs to find multiples of 3 , charge for2 , then charge for the remaining ones
         {
-            decimal saleQuantity = quantity / 2;
-            decimal notSale = quantity%2;
-            decimal total = (Math.Floor(saleQuantity)+notSale)*price;
+            decimal saleQuantity = quantity / 3;
+            decimal notSale = quantity%3;
+            decimal total = (Math.Floor(saleQuantity)*2+notSale)*price;
             return Decimal.ToInt32(total);
         }
     }
